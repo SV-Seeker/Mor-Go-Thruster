@@ -1,3 +1,4 @@
+![preview image](https://github.com/SV-Seeker/Mor-Go-Thruster/raw/master/image.png)
 # The Mor-Go Thruster
 
 This is a two-part, 3D-printable ROV thruster design, indended to print on hobbyist-grade fused-filament printers. The name, a silly pun, is a combination of my name (Morgan) and the name of the guy who made the previous version (Godø).
