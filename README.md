@@ -8,3 +8,5 @@ There are files with and without baked-in FFM supports/anchors. If you use the f
 The two parts can be assembled with a nut and a bolt, 1/4"-28 x 1" long, and optionally with glue.
 
 It has a concave base to provide for stable mounting onto the 4" OD aluminum tube that the Seeker ROV uses.
+
+There is also an experimental propeller design, intended to work with the Godø clamp hub design "printprop20". That file is currently available in the SV Seeker group on facebook. If you need clockwise and counterclockwise propellers, you can mirror the STL file to switch the rotation direction.
